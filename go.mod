@@ -6,6 +6,7 @@ require (
 	github.com/ChristianHering/WaveShare v0.0.0-20210309061826-e8779d6124f7
 	github.com/fogleman/gg v1.3.0
 	github.com/golang/freetype v0.0.0-20170609003504-e2365dfdc4a0
+	github.com/jrydval/svatky v0.0.0-20211123154749-4f17b876f7db
 	golang.org/x/image v0.0.0-20211028202545-6944b10bf410
 )
 
