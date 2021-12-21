@@ -107,7 +107,7 @@ var nameString string
 var datumString string
 
 func getClockText() string {
-	monthNames := []string{"", "Leden", "Únor", "Březen", "Duben", "Květen", "Červen", "Červenec", "Září", "Říjen", "Listopad", "Prosinec"}
+	monthNames := []string{"", "Leden", "Únor", "Březen", "Duben", "Květen", "Červen", "Červenec", "Srpen", "Září", "Říjen", "Listopad", "Prosinec"}
 	t := time.Now()
 	h := t.Hour()
 	m := t.Minute()
